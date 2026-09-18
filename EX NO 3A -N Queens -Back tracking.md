@@ -31,10 +31,6 @@ If there is no solution to the problem  print  "Solution does not exist"
 
 ## Program:
 ```
-/*
-Developed by:Abinaya A
-Register Number: 212223040003
-*/
 import java.util.Scanner;
 
 public class NQueens {
